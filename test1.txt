@@ -3,3 +3,11 @@
 3. Test 1 committed to local
 4. test1 branch pushed to remote
 ======================================
+
+Step 3:
+
+Test1 checked out
+Modified
+Git rebase test2
+Git push origin test1
+=======================================
