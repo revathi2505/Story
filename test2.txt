@@ -4,3 +4,10 @@
 ================
 
 
+Step5:
+
+Test 1 file modified in test 1 branch and pushed to origin
+Test 2 file modified
+Git rebase test1
+Switch to test1 branch
+Git push origin test1
